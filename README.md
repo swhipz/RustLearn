@@ -6,7 +6,7 @@ Someone said RUST was hard so I just had to do it to em <br>
 ## Accomplishments <br>
 
 Some _goals_ along the way. <br>
-- [x] Hello World <br>
+- [x] #1 Hello World <br>
 - [ ] Calculator App <br>
 - [ ] CLI
 
