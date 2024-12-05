@@ -1,3 +1,3 @@
-fn bullshitAssFunctionDeclaration() {
+fn main() {
     println!("Hello world");
 }
