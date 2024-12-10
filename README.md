@@ -1,6 +1,8 @@
 # RustLearn ¿?
 
-Welcome to **RustLearn** ¿ my repository for mastering the Rust programming language! ¿? Here's what ChatGPT thinks this github repo README should look like.
+Welcome to **RustLearn** ¿ my repository for mastering the Rust programming language! ¿?
+<br>
+Here's what ChatGPT thinks this github repo README should look like.
 
 ---
 
