@@ -1,10 +1,10 @@
-# RustLearn ¿?
+# RustLearn Â¿?
 
-Welcome to **RustLearn** ¿ your repository for mastering the Rust programming language! ¿? Whether you're a beginner taking your first steps into systems programming or an experienced developer, this repo is your companion in exploring the powerful, safe, and fast world of Rust.
+Welcome to **RustLearn** Â¿ my repository for mastering the Rust programming language! Â¿? Here's what ChatGPT thinks this github repo README should look like.
 
 ---
 
-## Why Rust? ¿?
+## Why Rust? Â¿?
 
 - **Performance:** Write code that runs at the speed of light, with zero-cost abstractions.
 - **Memory Safety:** Avoid segmentation faults and data races.
@@ -14,7 +14,7 @@ Welcome to **RustLearn** ¿ your repository for mastering the Rust programming la
 
 ---
 
-## Repository Structure ¿?
+## Repository Structure Â¿?
 
 | Folder/File       | Description                             |
 |-------------------|-----------------------------------------|
@@ -26,9 +26,9 @@ Welcome to **RustLearn** ¿ your repository for mastering the Rust programming la
 
 ---
 
-## Getting Started ¿?
+## Getting Started Â¿?
 
-### 1. Install Rust ¿?
+### 1. Install Rust Â¿?
 
 Install Rust using `rustup`, the official Rust installer:
 ```bash
@@ -40,14 +40,14 @@ Follow the on-screen instructions, and then verify the installation:
 rustc --version
 ```
 
-### 2. Clone the Repository ¿?
+### 2. Clone the Repository Â¿?
 
 ```bash
 git clone https://github.com/swhipz/RustLearn.git
 cd RustLearn
 ```
 
-### 3. Build and Run ¿?
+### 3. Build and Run Â¿?
 
 To run a Rust program, navigate to its directory and execute:
 ```bash
@@ -61,7 +61,7 @@ cargo test
 
 ---
 
-## Learning Rust ¿?
+## Learning Rust Â¿?
 
 ### Topics Covered
 
@@ -71,7 +71,7 @@ cargo test
 - **Concurrency:** Threads and async programming
 - **Advanced Topics:** Macros, traits, and lifetimes
 
-### Resources ¿?
+### Resources Â¿?
 
 - [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
 - [Rustlings (Exercises)](https://github.com/rust-lang/rustlings)
@@ -80,7 +80,7 @@ cargo test
 
 ---
 
-## Contributing ¿?
+## Contributing Â¿?
 
 We welcome contributions! Here's how you can get involved:
 
@@ -96,7 +96,7 @@ Please follow the [Rust API Guidelines](https://rust-lang.github.io/api-guidelin
 
 ---
 
-## License ¿?
+## License Â¿?
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
@@ -104,5 +104,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 _"Rust: safety, speed, and peace of mind."_
 
-Happy Coding! ¿?¿?
+Happy Coding! Â¿?Â¿?
 
