@@ -1,0 +1,10 @@
+C:\Users\Bruker\Desktop\Desktop_sept_24\codestuff\RUST\rep\RustLearn\gui\gui\target\debug\deps\libcopypasta-b73cbc9ff6cc9b74.rmeta: C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\lib.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\common.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\windows_clipboard.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\nop_clipboard.rs
+
+C:\Users\Bruker\Desktop\Desktop_sept_24\codestuff\RUST\rep\RustLearn\gui\gui\target\debug\deps\libcopypasta-b73cbc9ff6cc9b74.rlib: C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\lib.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\common.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\windows_clipboard.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\nop_clipboard.rs
+
+C:\Users\Bruker\Desktop\Desktop_sept_24\codestuff\RUST\rep\RustLearn\gui\gui\target\debug\deps\copypasta-b73cbc9ff6cc9b74.d: C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\lib.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\common.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\windows_clipboard.rs C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\nop_clipboard.rs
+
+C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\lib.rs:
+C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\common.rs:
+C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\windows_clipboard.rs:
+C:\Users\Bruker\.cargo\registry\src\index.crates.io-6f17d22bba15001f\copypasta-0.7.1\src\nop_clipboard.rs:
