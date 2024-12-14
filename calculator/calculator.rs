@@ -26,7 +26,7 @@ impl Calculator {
 
     fn divide(&self, num1: f64, num2: f64) -> f64 {
         if num2 == 0.0 {
-            panic!("Cannot divide by zero!");
+            panic!("Cannot divide by zero here!!");
         }
         num1 / num2
     }
@@ -72,10 +72,10 @@ impl Calculator {
             };
 
             let result = match operation {
-                "add" => self.add(num1, num2),
-                "subtract" => self.subtract(num1, num2),
-                "multiply" => self.multiply(num1, num2),
-                "divide" => self.divide(num1, num2),
+                "add" || "+" => self.add(num1, num2),
+                "subtract" || "-"  => self.subtract(num1, num2),
+                "multiply" || "*"  => self.multiply(num1, num2),
+                "divide" || "/"  => self.divide(num1, num2),
                 _ => {
                     println!("Unknown operation: {}", operation);
                     continue;
