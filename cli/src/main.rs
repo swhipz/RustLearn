@@ -5,7 +5,6 @@ fn main() {
     let args: Vec<String> = env::args().collect();
 
     if args.len() > 1 {
-        // Attempt to parse the second argument as a f64
         match args[1].parse::<f64>() {
             Ok(value) => {
                 if value == huge {
